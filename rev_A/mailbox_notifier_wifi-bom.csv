@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"4u7","C1","Capacitor_SMD:CP_Elec_4x5.4","C128465"
+"1u/X7R","C2,C3","Capacitor_SMD:C_0805_2012Metric","C28323"
+"100n","C4","Capacitor_SMD:C_0805_2012Metric","C49678"
+"NCD0805G1","D1","LED_SMD:LED_0805_2012Metric","C84260"
+"AO3401","Q1","Package_TO_SOT_SMD:SOT-23","C15127"
+"AO3402","Q2","Package_TO_SOT_SMD:SOT-23","C14385"
+"100k","R1,R3","Resistor_SMD:R_0805_2012Metric","C17407"
+"10k","R2,R4,R5,R6","Resistor_SMD:R_0805_2012Metric","C17414"
+"220","R7","Resistor_SMD:R_0805_2012Metric","C17557"
+"RT9013-33","U1","Package_TO_SOT_SMD:SOT-23-5","C47773"
